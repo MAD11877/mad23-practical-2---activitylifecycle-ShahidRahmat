@@ -1,4 +1,4 @@
-package sg.np.edu.mad.week2madprac;
+package sg.np.edu.mad.madpractical;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import sg.np.edu.mad.week2madprac.R;
 
 public class MainActivity extends AppCompatActivity {
     final String TITLE = "MAD Practical";
